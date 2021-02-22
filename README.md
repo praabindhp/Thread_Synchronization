@@ -6,3 +6,5 @@ Thread synchronization is the concurrent execution of two or more threads that s
 Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 
 This Is A Java Program Illustrating The Thread Synchronization & Its Processes
+
+Synchronization in java is the capability to control the access of multiple threads to any shared resource. Java Synchronization is better option where we want to allow only one thread to access the shared resource.
